@@ -1,4 +1,9 @@
-## Hi there 👋
+## Electronics and Communication Engineering 
+
+Analog circuits | Digital Circuits | VLSI | IoT |
+Embedded System | Microcontroller | Communication Theory |
+
+C | C++ | python | HTML | CSS | JS | Cryptography |
 
 <!--
 **TheJas-100/TheJas-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
